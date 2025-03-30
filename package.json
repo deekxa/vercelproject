@@ -1,5 +1,5 @@
 {
-  "name": "achar-project",
+  "name": "vercelproject",
   "homepage": "https:/deekxa.github.io/vercelproject/",
   "private": true,
   "version": "0.0.0",
@@ -15,8 +15,8 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.0.17",
     "formik": "^2.4.6",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
+    "react": "^18.2.0",  
+    "react-dom": "^18.2.0",
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.4.1",
     "react-slick": "^0.30.3",
